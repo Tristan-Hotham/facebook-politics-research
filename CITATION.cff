@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the PhD thesis below, or the DOI of the specific paper (see papers.bib)."
+title: "Facebook, campaigns and politics: research by Dr Tristan Hotham"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+url: "https://tristanhotham.com/research/"
+repository-code: "https://github.com/Tristan-Hotham/facebook-politics-research"
+keywords:
+  - Facebook
+  - political campaigns
+  - political parties
+  - social media
+  - populism
+  - targeted advertising
+  - elections
+preferred-citation:
+  type: thesis
+  title: "How do political parties use Facebook and what does it offer to their campaigns"
+  authors:
+    - family-names: Hotham
+      given-names: Tristan
+      orcid: "https://orcid.org/0000-0003-4931-9349"
+  institution:
+    name: "University of Bath"
+  year: 2021
+  doi: "10.5281/zenodo.23300280"
+  url: "https://tristanhotham.com/research/phd-thesis-how-do-political-parties-use-facebook/"
