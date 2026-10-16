@@ -9,6 +9,8 @@ Open-access research on how political parties, leaders and campaigns use Faceboo
 
 To cite a paper, use its DOI or the entries in [`papers.bib`](papers.bib). To cite this body of work as a whole, use GitHub's **Cite this repository** button, which reads [`CITATION.cff`](CITATION.cff) and points to the PhD thesis.
 
+[`tristan-hotham-parties-covered.csv`](tristan-hotham-parties-covered.csv) lists the 160 parties and 8 campaigns covered, in 21 countries, with party family (ParlGov), populist classification (PopuList), pages tracked and the papers about each. It holds party-level information only. The same list is browsable at [tristanhotham.com/research/#parties](https://tristanhotham.com/research/#parties).
+
 Preprints are not peer reviewed. Post-level social media data are not shared, in line with the terms under which they were collected.
 
 ## Britain: parties, leaders and campaigns
